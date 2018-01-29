@@ -41,3 +41,10 @@ python main.py
 cd 2DGrid_ALI
 python main.py
 ```
+
+### Results
+![Figure2](https://raw.githubusercontent.com/fjxmlzn/PacGAN/master/synthetic_data_experiments/results/Figure2.png)
+
+![Table1](https://raw.githubusercontent.com/fjxmlzn/PacGAN/master/synthetic_data_experiments/results/Table1.png)
+
+The detailed explanation of the architectures, hyperparameters, metrics, and experimental settings are given in the paper.

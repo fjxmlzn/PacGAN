@@ -36,3 +36,12 @@ python main.py
 ```
 
 > **Note**: The MNIST classifier code `train_mnist.py` is based on Keras' [demo code](https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py).
+
+### Results
+![Figure3](https://raw.githubusercontent.com/fjxmlzn/PacGAN/master/stacked_MNIST_experiments/results/Figure3.png)
+
+![Table2](https://raw.githubusercontent.com/fjxmlzn/PacGAN/master/stacked_MNIST_experiments/results/Table2.png)
+
+![Table3](https://raw.githubusercontent.com/fjxmlzn/PacGAN/master/stacked_MNIST_experiments/results/Table3.png)
+
+The detailed explanation of the architectures, hyperparameters, metrics, and experimental settings are given in the paper.
