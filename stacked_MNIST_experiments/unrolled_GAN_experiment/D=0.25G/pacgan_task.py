@@ -57,7 +57,6 @@ class PacGANTask(GPUTask):
                 output_height = FLAGS.output_height,
                 batch_size = FLAGS.batch_size,
                 sample_num = FLAGS.batch_size,
-                y_dim = 10,
                 dataset_name = FLAGS.dataset,
                 checkpoint_dir = FLAGS.checkpoint_dir,
                 sample_dir = FLAGS.sample_dir,
