@@ -2,9 +2,7 @@ import numpy as np
 
 config = {
     "scheduler_config": {
-        "backend": "tensorflow",
-        "gpu": ["0", "1", "2", "3"],
-        "force_rerun": False,
+        "gpu": ["0", "1", "2", "3"]
     },
 
     "global_config": {

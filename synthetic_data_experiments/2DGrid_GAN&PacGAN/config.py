@@ -8,12 +8,7 @@ VARIANCES = [0.05 ** 2 * numpy.eye(len(mean)) for mean in MEANS]
 
 config = {
     "scheduler_config": {
-        "backend": "theano",
-        "gpu": ["gpu0", "gpu1", "gpu2", "gpu3"]
-    },
-
-    "theano_config": {
-        "theanorc_template_file": ".theanorc"
+        "gpu": ["0", "1", "2", "3"]
     },
 
     "global_config": {
