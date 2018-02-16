@@ -45,3 +45,6 @@ python main.py
 ![Table3](https://github.com/fjxmlzn/PacGAN/blob/master/stacked_MNIST_experiments/results/Table3.png)
 
 The detailed explanation of the architectures, hyperparameters, metrics, and experimental settings are given in the paper.
+
+### Pretrained model
+The tensorflow checkpoint files of one trial of DCGAN, PacDCGAN2, and PacDCGAN3, PacDCGAN4 in VEEGAN experiment (Figure 3 and Table 2 above) can be downloaded [here](https://drive.google.com/file/d/12imGN6sR7VeHp7uW0-vDNorfRGmu7jej/view?usp=sharing).
