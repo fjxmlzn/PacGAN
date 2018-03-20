@@ -12,7 +12,7 @@ The codes are based on [code](https://github.com/IshmaelBelghazi/ALI) of [Advers
 Before running codes, you may need to change GPU configurations according to the devices you have. The configurations are set in `config.py` in each directory. Please refer to [GPUTaskScheduler's github page](https://github.com/fjxmlzn/GPUTaskScheduler) for details of how to make proper configurations.
 
 ### Setup
-Install PacGAN library
+Install PacGAN library in this folder
 ```
 pip install -e PacGAN
 ```
