@@ -7,7 +7,7 @@
 ## Synthetic data experiments
 
 ### Prerequisites
-The codes are based on [code](https://github.com/IshmaelBelghazi/ALI) of [Adversarially Learned Inference](https://arxiv.org/abs/1606.00704) paper. Please install it first. Many thanks to ALI's authors!
+The codes are based on [code](https://github.com/IshmaelBelghazi/ALI) of [Adversarially Learned Inference](https://arxiv.org/abs/1606.00704) paper. Please install it first (follow instructions in Requirements and Setup section [here](https://github.com/IshmaelBelghazi/ALI)). Many thanks to ALI's authors!
 
 Before running codes, you may need to change GPU configurations according to the devices you have. The configurations are set in `config.py` in each directory. Please refer to [GPUTaskScheduler's github page](https://github.com/fjxmlzn/GPUTaskScheduler) for details of how to make proper configurations.
 
