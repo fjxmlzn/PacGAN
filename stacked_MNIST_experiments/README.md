@@ -15,6 +15,8 @@ The codes are based on [Taehoon Kim](https://carpedm20.github.io/)'s [implementa
 
 Before running codes, you may need to change GPU configurations according to the devices you have. The configurations are set in `config.py` in each directory. Please refer to [GPUTaskScheduler github page](https://github.com/fjxmlzn/GPUTaskScheduler) for details of how to make proper configurations.
 
+The GAN part is implemented by TensorFlow, the evaluation part is implemented by Keras. **Please set Keras's backend to Theano.** Otherwise there will be two tensorflow models running on one GPU node & one process, which may produce unpredictable results.
+
 ### Running code
 * [VEEGAN](https://arxiv.org/abs/1705.07761) experiment
 ```
