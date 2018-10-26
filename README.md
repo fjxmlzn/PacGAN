@@ -18,3 +18,4 @@ The codes are based on [GPUTaskScheduler](https://github.com/fjxmlzn/GPUTaskSche
 ### Code list
 * [Synthetic data experiments](https://github.com/fjxmlzn/PacGAN/tree/master/synthetic_data_experiments)
 * [Stacked MNIST experiments](https://github.com/fjxmlzn/PacGAN/tree/master/stacked_MNIST_experiments) 
+* [CelebA experiments](https://github.com/fjxmlzn/PacGAN/tree/master/celeba_experiments) 
