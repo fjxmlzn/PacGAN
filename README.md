@@ -2,6 +2,7 @@
 
 **[[paper (arXiv)](https://arxiv.org/abs/1712.04086)]**
 **[[paper (NeurIPS)](http://papers.nips.cc/paper/7423-pacgan-the-power-of-two-samples-in-generative-adversarial-networks)]**
+**[[paper (JSAIT)](https://ieeexplore.ieee.org/document/9046238)]**
 **[[poster](https://drive.google.com/file/d/1UwlzniEB1XIMhI387-x9s5LsF5jzZzb0/view?usp=sharing)]**
 **[[website](http://swoh.web.engr.illinois.edu/pacgan.html)]**
 **[[interview (youtube)](https://www.youtube.com/watch?v=MqdhDdD4-Z0)]**
